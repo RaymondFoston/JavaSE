@@ -1,8 +1,8 @@
-package com.JavaSE.lmbda;
+package com.JavaSE.lambda;
 
 import java.util.ArrayList;
 
-public class Main {
+public class Demo1 {
 
     public static void main(String[] args) {
         //lambda表达式
